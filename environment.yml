@@ -1,0 +1,20 @@
+name: interactivepygmt
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - numpy
+  - pandas
+  - xarray
+  - netCDF4
+  - packaging
+  - gmt
+  - IPython
+  - Contextily
+  - GeoPandas
+  - RioXarray
+  - matplotlib
+  - ipympl
+  - basemap
+  - pillow
+
