@@ -2,7 +2,10 @@ name: interactivepygmt
 channels:
   - conda-forge
 dependencies:
-  - python>=3.9
+  - python>=3.10
+  - pygmt
+  - ipykernel
+  - jupyter
   - numpy
   - pandas
   - xarray
@@ -17,4 +20,3 @@ dependencies:
   - ipympl
   - basemap
   - pillow
-
