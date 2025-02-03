@@ -1,0 +1,10 @@
+master=20160906
+center_time=1:23:06.543083
+heading=-169.851635291
+avg_incidence_angle=33.7789
+azimuth_resolution=13.972030
+range_resolution=2.329562
+centre_range_m=879060.1618
+avg_height=2578.5571
+applied_DEM=SRTM_30m
+centre_range_ok_m=879038.0310

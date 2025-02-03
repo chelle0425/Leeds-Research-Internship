@@ -1,0 +1,23 @@
+0	gray18	10	gray22	L	
+10	gray22	20	66.9	L	
+20	66.9	30	gray30	L	
+30	gray30	40	87.8	L	
+40	87.8	50	98.25	L	
+50	98.25	60	108.7	L	
+60	108.7	70	119.15	L	
+70	119.15	80	gray51	L	
+80	gray51	90	gray55	L	
+90	gray55	100	gray59	L	
+100	gray59	110	gray63	L	
+110	gray63	120	gray67	L	
+120	gray67	130	181.85	L	
+130	181.85	140	192.3	L	
+140	192.3	150	202.75	L	
+150	202.75	160	213.2	L	
+160	213.2	170	gray88	L	
+170	gray88	180	234.1	L	
+180	234.1	190	whitesmoke	L	
+190	whitesmoke	200	white	B	
+B	white
+F	black
+N	128

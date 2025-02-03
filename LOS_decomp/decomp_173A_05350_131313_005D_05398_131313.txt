@@ -1,0 +1,2 @@
+tosend/173A_05350_131313.vel_filt.mskd.geo.tif tosend/173A_05350_131313.geo.E.tif tosend/173A_05350_131313.geo.N.tif
+tosend/005D_05398_131313.vel_filt.geo.tif tosend/005D_05398_131313.geo.E.tif tosend/005D_05398_131313.geo.N.tif
