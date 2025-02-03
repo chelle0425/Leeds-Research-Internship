@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>GMT KML Document</name>
+	<GroundOverlay>
+		<name>GMT Image Overlay</name>
+		<Icon>
+			<href>figures/Hindu_Kush_study_area_InSAR_ascending.png</href>
+		</Icon>
+		<altitudeMode>clampToGround</altitudeMode>
+		<LatLonBox>
+			<north>41.000000</north>
+			<south>34.000000</south>
+			<east>78.000000</east>
+			<west>66.000000</west>
+		</LatLonBox>
+		<Region>
+		<LatLonAltBox>
+			<north>3767131.992000</north>
+			<south>3026907.210000</south>
+			<east>504811.111000</east>
+			<west>-504811.111000</west>
+		</LatLonAltBox>
+		</Region>
+	</GroundOverlay>
+</Document>
+</kml>
